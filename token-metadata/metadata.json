@@ -1,0 +1,13 @@
+{
+  "name": "TEST TOKEN",
+  "symbol": "TEST",
+  "description": "just a test token",
+  "image": "", 
+  "external_url": "https://x.com/DrLoupis__",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility Token"
+    }
+  ]
+}
